@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @devramonn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :
-ramonbarbosa3199@gmail.com
-www.linkedin.com/in/ramon-douglas
+- 👋Oi, eu sou @devramonn
+- 👀Estou interessado em oportunidades como Programador Junior
+- 🌱atualmente estou aprendendo as Linguagens C# e Java
+- 📫Como chegar até mim: ramonbarbosa3199@gmail.com www.linkedin.com/in/ramon-douglas
